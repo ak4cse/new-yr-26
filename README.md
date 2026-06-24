@@ -13,6 +13,12 @@ A polished, interactive New Year greeting page built with HTML, CSS, and vanilla
 - Secret `2026` keyboard code for party mode.
 - Fully static implementation with no build step required.
 
+## Live Preview
+
+Experience the project here:
+
+🔗 https://new-yr-wish.netlify.app/?name=Alex
+
 ## Project Structure
 
 ```text
