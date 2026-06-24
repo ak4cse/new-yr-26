@@ -97,6 +97,8 @@ Upload the full project folder and make sure `index.html`, `audio.mp3`, and `con
 
 The page is designed for modern desktop and mobile browsers. It uses standard HTML5 audio, CSS animations, URL search parameters, and vanilla JavaScript.
 
-## License
+---
 
-No license file is currently included. Add a license before distributing or accepting public contributions.
+Here's to building small things that make moments a little more special.
+
+— Ak
